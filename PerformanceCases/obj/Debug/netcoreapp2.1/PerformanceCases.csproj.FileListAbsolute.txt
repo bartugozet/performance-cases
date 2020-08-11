@@ -1,0 +1,15 @@
+C:\Users\02484559\source\repos\PerformanceCases\PerformanceCases\obj\Debug\netcoreapp2.1\PerformanceCases.csproj.CoreCompileInputs.cache
+C:\Users\02484559\source\repos\PerformanceCases\PerformanceCases\obj\Debug\netcoreapp2.1\PerformanceCases.AssemblyInfoInputs.cache
+C:\Users\02484559\source\repos\PerformanceCases\PerformanceCases\obj\Debug\netcoreapp2.1\PerformanceCases.AssemblyInfo.cs
+C:\Users\02484559\source\repos\PerformanceCases\PerformanceCases\bin\Debug\netcoreapp2.1\PerformanceCases.deps.json
+C:\Users\02484559\source\repos\PerformanceCases\PerformanceCases\bin\Debug\netcoreapp2.1\PerformanceCases.runtimeconfig.json
+C:\Users\02484559\source\repos\PerformanceCases\PerformanceCases\bin\Debug\netcoreapp2.1\PerformanceCases.runtimeconfig.dev.json
+C:\Users\02484559\source\repos\PerformanceCases\PerformanceCases\bin\Debug\netcoreapp2.1\PerformanceCases.dll
+C:\Users\02484559\source\repos\PerformanceCases\PerformanceCases\obj\Debug\netcoreapp2.1\PerformanceCases.csprojAssemblyReference.cache
+C:\Users\02484559\source\repos\PerformanceCases\PerformanceCases\obj\Debug\netcoreapp2.1\PerformanceCases.RazorAssemblyInfo.cache
+C:\Users\02484559\source\repos\PerformanceCases\PerformanceCases\obj\Debug\netcoreapp2.1\PerformanceCases.RazorAssemblyInfo.cs
+C:\Users\02484559\source\repos\PerformanceCases\PerformanceCases\obj\Debug\netcoreapp2.1\PerformanceCases.RazorTargetAssemblyInfo.cache
+C:\Users\02484559\source\repos\PerformanceCases\PerformanceCases\bin\Debug\netcoreapp2.1\PerformanceCases.pdb
+C:\Users\02484559\source\repos\PerformanceCases\PerformanceCases\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\02484559\source\repos\PerformanceCases\PerformanceCases\obj\Debug\netcoreapp2.1\PerformanceCases.dll
+C:\Users\02484559\source\repos\PerformanceCases\PerformanceCases\obj\Debug\netcoreapp2.1\PerformanceCases.pdb
